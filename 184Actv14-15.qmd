@@ -19,6 +19,7 @@ format:
 
 ```{r}
 #|label: Loading Packages
+#Coding Style: Tidyverse Style
 library(tidyverse)
 library(tidyr)
 library(knitr)
